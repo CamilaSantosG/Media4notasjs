@@ -1,4 +1,4 @@
-
+/*Oi camila ^^*/
 
 alert('-----Média-----');
 let n1 = parseFloat(prompt('Nota 1:'));
